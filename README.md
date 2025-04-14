@@ -42,7 +42,7 @@ sudo useradd -r -s /bin/false server-monitor
 
 ### 2. Install the Script
 
-Save your script as:
+Save the script as:
 
 ```bash
 /usr/local/bin/server_monitor.sh
