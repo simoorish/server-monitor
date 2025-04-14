@@ -32,7 +32,7 @@ sudo chmod 750 /usr/local/bin/server_monitor.sh
 
 place /etc/server_monitor.conf
 Set permissions:
-sudo chown server-monitor:server-monitor /etc/server_monitor.conf
+sudo chown server-monitor:server-monitor /etc/server_monitor.conf<br>
 sudo chmod 640 /etc/server_monitor.conf
 
 Set Up Snapshot Directory:
